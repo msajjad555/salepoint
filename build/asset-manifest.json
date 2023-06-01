@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ee36b0d.css",
+    "main.js": "/static/js/main.c40d9dba.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/Profile.png": "/static/media/Profile.697fdcd21f6d157b9073.png",
+    "static/media/playstore.png": "/static/media/playstore.82b4831979e0ce7c733e.png",
+    "static/media/Appstore.png": "/static/media/Appstore.d0c5839937e3c36285f6.png",
+    "index.html": "/index.html",
+    "main.4ee36b0d.css.map": "/static/css/main.4ee36b0d.css.map",
+    "main.c40d9dba.js.map": "/static/js/main.c40d9dba.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ee36b0d.css",
+    "static/js/main.c40d9dba.js"
+  ]
+}
